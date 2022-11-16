@@ -23,4 +23,8 @@ You can use shared preferences if need.<br>
 
 <br><br><br><br>
 
-<img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/201984314-64f01502-35e3-4977-bd66-2e863abc6c1c.jpg">    <img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/201984441-6ae91c3f-0089-426b-aaac-736c37eb6d30.jpg">
+<img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/202123605-3df0ce55-f3e9-4f4d-a63a-6cbff5dd882e.jpg">    <img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/201984441-6ae91c3f-0089-426b-aaac-736c37eb6d30.jpg">
+
+<br><br><br><br>
+
+<img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/202123641-df5dae74-f622-4493-b87e-545f00d44874.jpg">    <img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/202123691-e2ac5d1f-893a-4ef4-ba20-9afe76fca4d4.jpg">
